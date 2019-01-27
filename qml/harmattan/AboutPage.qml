@@ -32,7 +32,7 @@ Page {
         Label {
             platformStyle: LabelStyle { fontPixelSize: UI.FONT_XLARGE }
             anchors.horizontalCenter: parent.horizontalCenter
-            text: "网易云音乐测试版"
+            text: "网易云音乐测试版2.0"
         }
 
         Label {
