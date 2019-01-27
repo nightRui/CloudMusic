@@ -56,7 +56,7 @@ Page {
                 fontPixelSize: UI.FONT_SMALL
                 textColor: UI.COLOR_INVERTED_SECONDARY_FOREGROUND
             }
-            text: "Designed & built by Yeatse, 2015"
+            text: "CloudMusic by SouthCat, 2019"
         }
     }
 }
