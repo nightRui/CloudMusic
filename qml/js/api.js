@@ -4,7 +4,7 @@ var qmlApi;
 
 var CloudMusicApi = {
     SNS_AUTH_SINA: "http://music.163.com/api/sns/authorize/?snsType=2&clientType=pc",
-    LOGIN_TOKEN_REFRESH: "http://music.163.com/api/login/token/refresh",
+    LOGIN_TOKEN_REFRESH: "http://music.163.com/weapi/login/token/refresh",
 
     DISCOVERY_RECOMMEND_RESOURCE: "http://music.163.com/api/v1/discovery/recommend/resource",
     DISCOVERY_HOTSPOT: "http://music.163.com/api/discovery/hotspot",
