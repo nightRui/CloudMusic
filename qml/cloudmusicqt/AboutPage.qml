@@ -31,7 +31,7 @@ Page {
         Label {
             font.pixelSize: platformStyle.fontSizeLarge + 4
             anchors.horizontalCenter: parent.horizontalCenter
-            text: "网易云音乐测试版"
+            text: "网易云音乐测试版2.0"
         }
 
         ListItemText {
@@ -55,7 +55,7 @@ Page {
         visible: screen.height > 360
         ListItemText {
             role: "SubTitle"
-            text: "Designed & built by Yeatse, 2015"
+            text: "CloudMusic by SouthCat, 2019"
         }
     }
 }
